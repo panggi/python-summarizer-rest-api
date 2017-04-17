@@ -4,13 +4,14 @@ Simple implementation of Text Summarizer based on `gensim` and `tornado`
 
 ### Installation
 
-*Using Docker*
+**Using Docker**
 
 `$ docker run -d -p 8888:8888 panggi/python-summarizer-rest-api:0.0.1`
 
-*Without Docker*
+**Without Docker**
 
 `$ pip install -r requirements.txt`
+
 `$ python summarizer.py`
 
 ### API Documentation
