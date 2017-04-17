@@ -65,5 +65,6 @@
 
 POST the required parameters
 * `text`: text to be summarized
+* `word_count`: summarized text word count
 
 

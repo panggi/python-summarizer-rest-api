@@ -36,6 +36,7 @@ class Summarize(APIHandler):
         """
         POST the required parameters
         * `text`: text to be summarized
+        * `word_count`: summarized text word count
         """
         tornado.log.enable_pretty_logging()
         data = tornado.escape.json_decode(self.request.body)
