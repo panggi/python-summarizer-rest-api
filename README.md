@@ -12,3 +12,7 @@ Simple implementation of Text Summarizer based on `gensim` and `tornado`
 
 `$ pip install -r requirements.txt`
 `$ python summarizer.py`
+
+### API Documentation
+
+Please consult [https://github.com/panggi/python-summarizer-rest-api/blob/master/API_Documentation.md](API Documentation) to see the details.
